@@ -6,6 +6,7 @@ A Simple Kernel Module For Linux
 ## How to install regularly
 1. Execute install.sh by typing:
 ``` shell
+git clone https://github.com/Hoidberg/mykernelmodule.git
 cd mykernelmodule/
 chmod 775 install.sh
 ./install.sh
