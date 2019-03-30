@@ -27,7 +27,7 @@ make
 ```
 4. After that type:
 ```shell
-su
+sudo -s
 ```
 5. Now type:
 ```shell
